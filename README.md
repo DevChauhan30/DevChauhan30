@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Dev Chauhan
-- 👀 I’m interested in obtaining an internship or research opportunity to utilize my problem-solving skills and learn more about this rapidly developing field of Computer Science. 
-- 🌱 I’m currently learning Java, C++, CSS, RStudio and Python.
-- 💞️ I’m looking to collaborate on open source project.
+- 👀 Seeking an entry-level position in the field of Computer Science beginning Spring 2023 to further utilize my skills and knowledge in the field. I am open to relocating for the right opportunity.
+- 🌱I’m looking to collaborate on open source project.
 - 📫 How to reach me devrajchauhan320@gmail.com
 
 <!---
